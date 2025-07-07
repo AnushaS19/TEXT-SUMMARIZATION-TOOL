@@ -79,3 +79,9 @@ Whether you're a developer learning NLP, a student who wants to digest long chap
 OUTPUT ---:
 
 ![Image](https://github.com/user-attachments/assets/7d1d080a-aecc-43cd-a5a7-7791fc4c17db)
+
+![Image](https://github.com/user-attachments/assets/65c6d607-77c5-40e7-a88b-da92bc1c3dee)
+
+![Image](https://github.com/user-attachments/assets/ae470811-1f19-4481-9b0c-5f365a06eafe)
+![Image](https://github.com/user-attachments/assets/ba37352b-0229-47df-9175-64fe739da326)
+![Image](https://github.com/user-attachments/assets/5f6aeb82-777f-4e6d-bf68-844b0f22b032)
