@@ -74,3 +74,8 @@ The app also provides a direct link to download the summary as a .txt file. Word
 This project showcases the practical combination of Natural Language Processing, graph algorithms, and text-to-speech features in a single web application. It's especially helpful for simplifying academic papers, blog articles, or reports, and making summaries more accessible via audio—useful for the visually impaired or multitasking users.
 
 Whether you're a developer learning NLP, a student who wants to digest long chapters faster, or a productivity enthusiast, this project serves as a robust, real-world example of how Python and open-source libraries can come together to solve everyday problems.
+
+
+OUTPUT ---:
+
+![Image](https://github.com/user-attachments/assets/7d1d080a-aecc-43cd-a5a7-7791fc4c17db)
