@@ -9,7 +9,6 @@ from gtts import gTTS
 import os
 import base64
 import datetime
-import tempfile
 
 # Download stopwords if not present
 try:
@@ -126,9 +125,9 @@ if st.button("🚀 Generate Summary"):
         # TTS
         if st.button("🔊 Listen to Summary"):
             tts = gTTS(summary, lang=lang)
-            with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as fp:
-                tts.save(fp.name)
-                st.audio(fp.name, format="audio/mp3")
+            tts.save("summary.mp3")
+            audio_file = open("summary.mp3", "rb")
+            st.audio(audio_file.read(), format='audio/mp3')
 
 # Footer
 st.markdown("---")
